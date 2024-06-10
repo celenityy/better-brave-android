@@ -2,6 +2,8 @@
 
 My recommendations for the ultimate configuration of the Brave Browser on Android :)
 
+**NOTE**: This is specifically tailored for Brave on Android. For Desktop, see [here](https://codeberg.org/Magnesium1062/better-brave).
+
 # Brave Shields & privacy
 
 **Block trackers & ads** -> `Block trackers & ads (Aggressive)`
