@@ -132,31 +132,33 @@ Use secure DNS -> **Choose another provider** -> Pick a private, secure, & reput
 
 # Site settings
 
-**Location** -> `Blocked` ❌ 
+Permissions -> **Location** -> `Blocked` ❌ 
 
-**Camera** -> `Blocked` ❌ *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed*)
+Permissions -> **Camera** -> `Blocked` ❌ *(Obviously don't set if you use sites that need camera access, but you can still set exceptions for sites if needed*)
 
-**Microphone** -> `Blocked` ❌ *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed*)
+Permissions -> **Microphone** -> `Blocked` ❌ *(Obviously don't set if you use sites that need microphone access, but you can still set exceptions for sites if needed*)
 
-**Notifications** -> `Blocked` ❌
+Permissions -> **Notifications** -> `Blocked` ❌
 
-**Motion sensors** -> `Blocked` ❌
+Permissions -> **Motion sensors** -> `Blocked` ❌
 
-**USB** -> `Blocked` ❌
+Permissions -> **USB** -> `Blocked` ❌
 
-**Clipboard** -> `Blocked from reading clipboard` ❌
+Permissions -> **Clipboard** -> `Blocked from reading clipboard` ❌
 
-**Virtual reality** -> `Blocked` ❌
+Permissions -> **Virtual reality** -> `Blocked` ❌
 
-**Augmented reality** -> `Blocked` ❌
+Permissions -> **Augmented reality** -> `Blocked` ❌
 
-**Pop-ups and redirects** -> `Blocked` ❌ *(Should be default)*
+Content -> **Pop-ups and redirects** -> `Blocked` ❌ *(Should be default)*
 
-**Protected content** -> `Blocked` ❌ - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+Content -> **Protected content** -> `Blocked` ❌ - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
 
-**Autoplay** -> `Blocked` ❌
+Content -> **Dark theme for sites** -> `On` ✅ *(See `brave://flags` below)*
 
-**Google Sign-In** -> `Blocked` ❌
+Content -> **Autoplay** -> `Blocked` ❌
+
+Content -> **Google Sign-In** -> `Blocked` ❌
 
 # Downloads
 
@@ -225,6 +227,8 @@ Use secure DNS -> **Choose another provider** -> Pick a private, secure, & reput
 `#brave-speedreader` -> `Enabled`
 
 `#brave-wallet-bitcoin` -> `Disabled`
+
+`#darken-websites-checkbox-in-themes-setting` -> `Enabled` *(This will allow you to toggle `Dark theme for sites` under `Site settings` above)*
 
 `#enable-site-per-process` -> `Enabled`
 
