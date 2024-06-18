@@ -26,18 +26,23 @@ My recommendations for the ultimate configuration of the Brave Browser on Androi
 
 **Content Filtering**:
 
-`EasyList Cookie` -> ✅
+* `EasyList Cookie` -> ✅
 
-`Fanboy's Annoyances + uBO Annoyances` -> ✅
+* `Fanboy's Annoyances + uBO Annoyances` -> ✅
 
-`Fanboy's Social` -> ✅
+* `Fanboy's Social` -> ✅
 
-`Fanboy's Anti-Newsletter` -> ✅
+* `Fanboy's Anti-Newsletter` -> ✅
 
-`Fanboy's Mobile Notifications` -> ✅
+* `Fanboy's Mobile Notifications` -> ✅
 
-`Fanboy's Anti-chat Apps` -> ✅
+* `Fanboy's Anti-chat Apps` -> ✅
 
+* `Bypass Paywalls Clean Filters` -> ✅
+
+Don't forget to select **UPDATE** in the top right corner when you're done here.
+
+<br>
 
 **Forget me when I close this site** -> ✅ *(This feature drastically improves privacy, I would highly recommend using it and just setting exceptions for sites you need to stay logged in to)*
 
@@ -202,7 +207,6 @@ Use secure DNS -> **Choose another provider** -> Pick a private, secure, & reput
 **Autofill in private tabs** -> ❌
 
 # brave://flags
-
 
 `#android-open-pdf-inline` -> `Enabled`
 
