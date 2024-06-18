@@ -222,7 +222,7 @@ Content -> **Google Sign-In** -> `Blocked` ❌
 
 `#brave-rewards-vbat-notice` -> `Disabled`
 
-`#brave-safe-browsing` -> `Disabled` *(On Android, Safe Browsing requires Google Play Services and as such is proprietary and questionable. As long as you have other protection in place (see following sections), then I don't think its worth using here)*
+`#brave-safe-browsing` -> `Disabled` *(On Android, Safe Browsing requires Google Play Services and as such is proprietary and questionable. As long as you have other protection in place (See `secure DNS` above & `Additional recommendations` below), then I don't think its worth using here)*
 
 `#brave-speedreader` -> `Enabled`
 
