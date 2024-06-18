@@ -4,6 +4,8 @@ My recommendations for the ultimate configuration of the Brave Browser on Androi
 
 **NOTE:** This is specifically tailored for Brave on Android. For Desktop, see [here](https://codeberg.org/Magnesium1062/better-brave), and for iOS, see [here](https://codeberg.org/Magnesium1062/better-brave-ios).
 
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-brave-android), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-brave-android).
+
 # Brave Shields & privacy
 
 **Block trackers & ads** -> `Block trackers & ads (Aggressive)`
@@ -232,4 +234,4 @@ Use secure DNS -> **Choose another provider** -> Pick a private, secure, & reput
 
 * Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
 
-* Use a (reputable) anti-virus if possible, such as [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/). NOTE: You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
+* Use a (reputable) anti-virus if possible, such as [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/). **NOTE:** You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
