@@ -234,8 +234,6 @@ Content -> **Google Sign-In** -> `Blocked` ❌
 
 `#native-brave-wallet` -> `Disabled`
 
-`#sanitizer-api` -> `Enabled`
-
 `#strict-origin-isolation` -> `Enabled`
 
 # Additional recommendations
