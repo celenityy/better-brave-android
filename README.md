@@ -2,9 +2,9 @@
 
 My recommendations for the ultimate configuration of the Brave Browser on Android :)
 
-**NOTE:** This is specifically tailored for Brave on Android. For Desktop, see [here](https://codeberg.org/Magnesium1062/better-brave), and for iOS, see [here](https://codeberg.org/Magnesium1062/better-brave-ios).
+**NOTE:** This is specifically tailored for Brave on Android. For Desktop, see [here](https://codeberg.org/celenity/better-brave), and for iOS, see [here](https://codeberg.org/celenity/better-brave-ios).
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-brave-android), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-brave-android).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-brave-android), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-brave-android).
 
 # Brave Shields & privacy
 
