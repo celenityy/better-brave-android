@@ -240,4 +240,4 @@ Content -> **Google Sign-In** -> `Blocked` ❌
 
 * Use a (reputable) anti-virus if possible, such as [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/). **NOTE:** You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
